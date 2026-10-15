@@ -1,1 +1,1 @@
-# bilgilendirme-videosu
+# SMBbilgilendirmevideosu
